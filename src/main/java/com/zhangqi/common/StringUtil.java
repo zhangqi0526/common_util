@@ -188,6 +188,10 @@ public class StringUtil {
 		for (int i = 0; i < 10; i++) {
 			System.out.println(randomChineseName());
 		}
+		
+		
+		
+		System.out.println(getRandomLetter(50));
 	}
 	
 	

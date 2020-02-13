@@ -167,6 +167,8 @@ public class DateUtil {
 		Date theDate = dateFormat.parse("2013-05-26");
 		System.out.println(getDayNum(theDate));
 		System.out.println(isToday(theDate));
+		
+		System.out.println(getAge(theDate));
 	}
 }
 
